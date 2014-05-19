@@ -1,6 +1,4 @@
 require 'json'
-require 'rest-client'
-require 'mustache'
 require 'curb'
 
 begin
